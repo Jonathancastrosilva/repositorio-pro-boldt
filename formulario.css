@@ -55,7 +55,7 @@ fieldset.grupo .campo{
     display: block;
 }
 
-.campo selcet option{
+.campo select option{
     padding-right: 1em;
 }
 
