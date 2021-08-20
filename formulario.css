@@ -34,7 +34,7 @@ input, select, textarea, button{
 }
 
 #check{
-    display:inline-block
+    display:inline-block;
 }
 .campo{
     margin-bottom: 1em;
