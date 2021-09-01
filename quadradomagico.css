@@ -3,7 +3,7 @@ body {
 }
 
 table {
-    border-collapse: collapse;
+    border-collapse:collapse;
     margin: auto;
 }
 
@@ -17,4 +17,27 @@ input {
     height: 3em;
     text-align: center;
     font-size: larger;
+}
+
+.somaerradacoluna input,
+.somaerradalinha input,
+.somaerradadiagonalsecundaria input,
+.somaerradadiagonalprincipal input {
+    color: orange;
+    border: none;
+    border-color: orange;
+    width: 3em;
+    height: 3em;
+    text-align: center;
+    font-size: larger;
+    
+}
+
+.numerosrepetidos input,
+.foradoslimites input{
+    color: red;
+}
+
+.vitoria tr td input {
+    color: green;
 }
