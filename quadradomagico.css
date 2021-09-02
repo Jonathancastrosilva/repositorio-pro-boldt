@@ -24,13 +24,16 @@ input {
 .somaerradadiagonalsecundaria input,
 .somaerradadiagonalprincipal input {
     color: orange;
+    border: solid 5px;
 }
 
 .numerosrepetidos input,
 .foradoslimites input{
     color: red;
+    border: solid 5px;
 }
 
 .vitoria tr td input {
     color: green;
+    border: solid 5px;
 }
